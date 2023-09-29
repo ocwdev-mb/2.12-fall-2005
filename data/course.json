@@ -1,0 +1,62 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Dynamics and Control"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ]
+  ],
+  "legacy_uid": "bd2e3b79-3e83-d4bf-2346-79b6919ae73d",
+  "instructors": {
+    "content": [
+      "4c7a3a3d-8bbd-9c96-cf47-171786e83bb0",
+      "f35e6251-b7d8-e160-fd83-e65ae812fe2f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f18fe140-51d4-90b7-9151-933ab9f29d35",
+    "website": "2-12-introduction-to-robotics-fall-2005"
+  },
+  "course_title": "Introduction to Robotics",
+  "course_description": "This course provides an overview of robot mechanisms, dynamics, and intelligent controls. Topics include planar and spatial kinematics, and motion planning; mechanism design for manipulators and mobile robots, multi-rigid-body dynamics, 3D graphic simulation; control design, actuators, and sensors; wireless networking, task modeling, human-machine interface, and embedded software. Weekly laboratories provide experience with servo drives, real-time control, and embedded software. Students will design and fabricate working robotic systems in a group-based term project.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.12",
+  "course_image_thumbnail": {
+    "content": "5e4d2bab-5f4f-63a4-8355-8d568a004e0f",
+    "website": "2-12-introduction-to-robotics-fall-2005"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes",
+    "Projects with Examples",
+    "Programming Assignments"
+  ],
+  "site_uid": "378afe65-5a2e-4db6-b977-ddb698a2cb90",
+  "site_short_id": "2.12-fall-2005",
+  "title": "Course Metadata"
+}
